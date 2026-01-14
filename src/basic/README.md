@@ -1,10 +1,3 @@
-Perfect! Based on the code you provided for the `basic/` folder (zero-shot and few-shot prompting), here’s a **professional, recruiter-ready `README.md`** for that folder.
-
----
-
-### `src/basic/README.md`
-
-````md
 # Basic Prompting Techniques
 
 This folder contains **fundamental prompt engineering implementations** for large language models (LLMs), focusing on **zero-shot** and **few-shot prompting** strategies.  
