@@ -1,17 +1,3 @@
-Perfect! Thanks for sharing all the advanced technique code. Based on this, I can create a **polished, recruiter-ready `README.md`** for the `src/advanced/` folder. This will explain:
-
-* What each technique does
-* How it is implemented
-* Example usage
-* Why it is relevant for recruiters
-
-Here’s the professional version:
-
----
-
-### `src/advanced/README.md`
-
-````md
 # Advanced Prompting Techniques
 
 This folder contains **advanced prompt engineering and reasoning techniques** for large language models (LLMs).  
